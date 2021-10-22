@@ -1,6 +1,7 @@
 # FYP
 This is for FYP Curtin University Y2T2 2021.
 ## Webapp development for sport gait analysis
+Check Original_Video/ to get the original video.
 
 ### 3.4.3  Wild environment: Ice Skating
 
