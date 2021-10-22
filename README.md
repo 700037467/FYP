@@ -1,5 +1,5 @@
 # FYP
-This is for FYP Curtin University S12021.
+This is for FYP Curtin University 2021S2.
 ## Webapp development for sport gait analysis
 Check <a href="Original_Video">Original_Video</a> to get the original video.
 
